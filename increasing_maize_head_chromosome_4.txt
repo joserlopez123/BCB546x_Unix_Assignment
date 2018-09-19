@@ -1,3 +1,4 @@
+SNP_ID	Chromosome	Position	alt_pos	mult_positions	amplicon	cdv_map_feature.name	gene	candidate/random	Genaissance_daa_id	Sequenom_daa_id	count_amplicons	count_cmf	count_gene
 PZA00493.1	4	multiple		Chr4(241144995;241178306);	PZA00493	AY107331	AY107331	random	9954	10898	1	1	1
 PZA00493.2	4	multiple		Chr4(241145101;241178412);	PZA00493	AY107331	AY107331	random	9955	10899	0	0	0
 PZA00493.5	4	multiple		Chr4(241145151;241178462);	PZA00493	AY107331	AY107331	random	9956	10901	0	0	0

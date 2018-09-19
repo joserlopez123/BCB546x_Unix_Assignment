@@ -1,3 +1,4 @@
+SNP_ID	Chromosome	Position	alt_pos	mult_positions	amplicon	cdv_map_feature.name	gene	candidate/random	Genaissance_daa_id	Sequenom_daa_id	count_amplicons	count_cmf	count_gene
 PZD00022.1	2	233129138			PZD00022	L46400	L46400	candidate	8339	11730	1	1	1
 PZD00022.3	2	233129091			PZD00022	L46400	L46400	candidate	8340	11732	0	0	0
 zap1.2	2	233128584			zap1	L46400	zap1	candidate	8434	11823	1	0	1

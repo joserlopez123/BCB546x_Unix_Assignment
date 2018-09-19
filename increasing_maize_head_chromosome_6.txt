@@ -1,3 +1,4 @@
+SNP_ID	Chromosome	Position	alt_pos	mult_positions	amplicon	cdv_map_feature.name	gene	candidate/random	Genaissance_daa_id	Sequenom_daa_id	count_amplicons	count_cmf	count_gene
 PZA02948.19	6	multiple		Chr6(25035262;25122959);	PZA02948	AY104537	AY104537	random	8033	11219	1	1	1
 PZA02948.21	6	multiple		Chr6(25035303;25123000);	PZA02948	AY104537	AY104537	random	10033	11220	0	0	0
 PZA02948.22	6	multiple		Chr6(25035259;25122956);	PZA02948	AY104537	AY104537	random	10034	11221	0	0	0

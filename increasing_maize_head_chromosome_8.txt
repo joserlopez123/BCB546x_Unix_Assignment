@@ -1,3 +1,4 @@
+SNP_ID	Chromosome	Position	alt_pos	mult_positions	amplicon	cdv_map_feature.name	gene	candidate/random	Genaissance_daa_id	Sequenom_daa_id	count_amplicons	count_cmf	count_gene
 PZA03316.2	8	4766694			PZA03316	MIR169b	MIR169b	candidate	8128	11369	1	1	1
 PZA00058.5	8	5966698			PZA00058	AY106292	AY106292	random	7674	10537	1	1	1
 PZA00058.6	8	5966738			PZA00058	AY106292	AY106292	random	9838	10538	0	0	0

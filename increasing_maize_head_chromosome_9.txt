@@ -1,3 +1,4 @@
+SNP_ID	Chromosome	Position	alt_pos	mult_positions	amplicon	cdv_map_feature.name	gene	candidate/random	Genaissance_daa_id	Sequenom_daa_id	count_amplicons	count_cmf	count_gene
 PZA00589.10	9	multiple		Chr9(43692524;43720849);	PZA00589	AY107035	AY107035	random	9987	10996	1	1	1
 PZA00589.8	9	multiple		Chr9(43692603;43720928);	PZA00589	AY107035	AY107035	random	7903	10998	0	0	0
 PZA00589.9	9	multiple		Chr9(43692633;43720958);	PZA00589	AY107035	AY107035	random	7904	10999	0	0	0

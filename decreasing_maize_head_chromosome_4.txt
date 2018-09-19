@@ -1,3 +1,4 @@
+SNP_ID	Chromosome	Position	alt_pos	mult_positions	amplicon	cdv_map_feature.name	gene	candidate/random	Genaissance_daa_id	Sequenom_daa_id	count_amplicons	count_cmf	count_gene
 PZA00051.2	4	245051649	Approximate: position of another SNP from the same amplicon plus 100 bases		PZA00051	AY106348	AY106348	random	7673	10536	1	1	1
 PZA00682.2	4	244992844			PZA00682	AY111822	AY111822	random	7944	11069	1	1	1
 PZA03017.11	4	243222845			PZA03017	AY104160	AY104160	random	10045	11266	0	0	0

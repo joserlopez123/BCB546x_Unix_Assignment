@@ -1,3 +1,4 @@
+SNP_ID	Chromosome	Position	alt_pos	mult_positions	amplicon	cdv_map_feature.name	gene	candidate/random	Genaissance_daa_id	Sequenom_daa_id	count_amplicons	count_cmf	count_gene
 PZA00230.5	1	298412984			PZA00230	AY105651	AY105651	random	7743	10675	1	1	1
 PZA00477.11	1	298082627			PZA00477	AY107458	AY107458	random	9952	10881	0	0	0
 PZA00477.9	1	298082534			PZA00477	AY107458	AY107458	random	7847	10883	0	0	0

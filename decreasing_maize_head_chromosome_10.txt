@@ -1,3 +1,4 @@
+SNP_ID	Chromosome	Position	alt_pos	mult_positions	amplicon	cdv_map_feature.name	gene	candidate/random	Genaissance_daa_id	Sequenom_daa_id	count_amplicons	count_cmf	count_gene
 PZD00075.2	10	146599484			PZD00075	ZmWUS2	ZmWUS2	candidate	8384	11781	0	0	0
 PZD00075.1	10	146599154			PZD00075	ZmWUS2	ZmWUS2	candidate	8383	11780	1	1	1
 PZA02969.11	10	143676107	Approximate: position of another SNP from the same amplicon plus 100 bases		PZA02969	AY104445	AY104445	random	10039	11237	1	1	1

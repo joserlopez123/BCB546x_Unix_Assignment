@@ -1,3 +1,4 @@
+SNP_ID	Chromosome	Position	alt_pos	mult_positions	amplicon	cdv_map_feature.name	gene	candidate/random	Genaissance_daa_id	Sequenom_daa_id	count_amplicons	count_cmf	count_gene
 PZA00486.2	7	multiple		Chr7(108218425;108952795);	PZA00486	AY107392	AY107392	random	7856	10893	1	1	1
 PZB00140.1	7	2081333			PZB00140	AZM3_55868	AZM3_55868	candidate	10081	11492	1	1	1
 PZA00188.1	7	2998280			PZA00188	AY105750	AY105750	random	7727	10635	1	1	1
